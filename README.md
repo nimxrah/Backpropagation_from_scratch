@@ -44,7 +44,7 @@ This notebook was created with the aim of:
 
 🚀 Getting Started
 To try it out:
-git clone https://github.com/nimxrah23/backprop-from-scratch.git
+git clone https://github.com/nimxrah/Backpropagation_from_scratch.git
 cd backprop-from-scratch
 jupyter notebook
 Open backpropagation_from_scratch.ipynb and run through the cells to explore how backpropagation works under the hood!
